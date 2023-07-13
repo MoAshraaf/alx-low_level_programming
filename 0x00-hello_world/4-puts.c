@@ -10,5 +10,4 @@ int main(void)
 }
 /*
  * this program prints a message to the console using the 'puts' function
- * the 'main function returns 0 to indicate that the program executed successfully.
  */
